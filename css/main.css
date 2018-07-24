@@ -123,10 +123,36 @@ footer a:hover{
   color:#fc561f;
 }
 
+.navbar-toggler{
+  border: none;
+}
+
 .johnny{
   color: #293540;
   background-color: #7cbce2;
   border-radius: 3px;
+}
+
+form{
+  background-color:#293540;
+}
+
+.btn{
+  background-color: #fc561f;
+  border-color: #fc561f;
+}
+
+.contact{
+  font-size: 18px;
+  color: #fc561f;
+  font-weight: bold;
+  border: 2px solid #fc561f;
+  min-width: 120px;
+}
+
+.line{
+  height:5px;
+  background-color: #ff6435;
 }
 
 
